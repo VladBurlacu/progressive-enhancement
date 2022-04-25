@@ -55,3 +55,19 @@ q {
 .farm {
     color: deeppink;
 }
+
+header > p {
+    background-color: yellow;
+}
+
+.good, .bad {
+    text-transform: uppercase;
+}
+
+.bad {
+    color: red;
+}
+
+.good {
+    color: green;
+}

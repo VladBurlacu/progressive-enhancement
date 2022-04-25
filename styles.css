@@ -56,7 +56,7 @@ q {
     color: deeppink;
 }
 
-header > p {
+header > b > p {
     background-color: yellow;
 }
 
@@ -74,3 +74,12 @@ header > p {
 
 tr:nth-child(even) {background: #CCC}
 tr:nth-child(odd) {background: #FFF}
+
+.img1 {
+    float: left;
+    margin-right: 30px;
+}
+
+.img2 {
+    float: right;
+}

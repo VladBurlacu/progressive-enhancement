@@ -43,3 +43,15 @@ body {
     background-position: bottom right;
     background-size: cover;
 }
+
+q {
+    font-style: italic;
+}
+
+.vil {
+    color: red;
+}
+
+.farm {
+    color: deeppink;
+}

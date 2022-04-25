@@ -11,3 +11,26 @@ ul li:before {
 table, th, td {
     border: 1px solid black;
 }
+
+p {
+    font-family: serif;
+    letter-spacing: 1px;
+    font-size: 20px;
+    color: darkslateblue;
+}
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+a:active {
+    color: blue;
+}

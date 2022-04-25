@@ -40,5 +40,6 @@ body {
     margin: auto;
     background-image: url("./bgimg2.jpg");
     background-repeat: no-repeat;
+    background-position: bottom right;
     background-size: cover;
 }

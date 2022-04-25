@@ -38,7 +38,7 @@ a:active {
 body {
     width: 90%;
     margin: auto;
-    background-image: url("./bgimg2.jpg");
+    background-image: url("resources/bgimg2.jpg");
     background-repeat: no-repeat;
     background-position: bottom right;
     background-size: cover;
